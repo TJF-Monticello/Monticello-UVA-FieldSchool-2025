@@ -1,4 +1,4 @@
-# Monticello-UVA-FieldSchool-2024
+# Monticello-UVA Archaeological Field School: 2025
 Course Materials for the Monticello-UVA Archaeological Field School
 * [Course Description and Syllabus](https://github.com/TJF-Monticello/Monticello-UVA-FieldSchool-2024/tree/main/DescriptionAndSyllabus). Click here for the Course Description and the Daily Schedule and Syllabus.
 * [Reading](https://github.com/TJF-Monticello/Monticello-UVA-FieldSchool-2024/tree/main/Reading). Click here for the reading for the course. 
